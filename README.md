@@ -26,11 +26,6 @@ Hands-on Tutorial
 |-------|
 | ![](Presentation/images/demo-board.jpeg) | 
 
-#### Workshop: Pi Day Raspberry Pi Pico Workshop (with the ESSS)
-**Location:** SECB 1014, SFU Burnaby Campus\
-**Participants:** 8 students\
-**Duration:** ~2 hours\
-**Covered:** Outline points 1-9
 
 
 ## Common Beginner Problems
